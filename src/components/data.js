@@ -20,6 +20,7 @@ const first = {
   display: "flex",
   justifyContent: "center",
   alignItems: "center",
+  textAlign: "center",
 };
 
 const second = {
